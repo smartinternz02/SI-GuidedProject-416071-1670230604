@@ -81,5 +81,5 @@ Write the encoding and names to the disk
   Result
   ________________
   
-Uploaded in outputimages Folder
+Uploaded in OutputScreenshorts Folder
 
